@@ -1,0 +1,7 @@
+C:\PROYECTOS\CSHAR\AplicacionTipoDatos\bin\Debug\AplicacionTipoDatos.exe.config
+C:\PROYECTOS\CSHAR\AplicacionTipoDatos\bin\Debug\AplicacionTipoDatos.exe
+C:\PROYECTOS\CSHAR\AplicacionTipoDatos\bin\Debug\AplicacionTipoDatos.pdb
+C:\PROYECTOS\CSHAR\AplicacionTipoDatos\obj\Debug\AplicacionTipoDatos.csprojAssemblyReference.cache
+C:\PROYECTOS\CSHAR\AplicacionTipoDatos\obj\Debug\AplicacionTipoDatos.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\CSHAR\AplicacionTipoDatos\obj\Debug\AplicacionTipoDatos.exe
+C:\PROYECTOS\CSHAR\AplicacionTipoDatos\obj\Debug\AplicacionTipoDatos.pdb
