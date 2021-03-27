@@ -1,0 +1,7 @@
+C:\PROYECTOS\CSHAR\Condicionales\obj\Debug\Condicionales.csprojAssemblyReference.cache
+C:\PROYECTOS\CSHAR\Condicionales\obj\Debug\Condicionales.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\CSHAR\Condicionales\bin\Debug\Condicionales.exe.config
+C:\PROYECTOS\CSHAR\Condicionales\bin\Debug\Condicionales.exe
+C:\PROYECTOS\CSHAR\Condicionales\bin\Debug\Condicionales.pdb
+C:\PROYECTOS\CSHAR\Condicionales\obj\Debug\Condicionales.exe
+C:\PROYECTOS\CSHAR\Condicionales\obj\Debug\Condicionales.pdb

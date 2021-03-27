@@ -1,0 +1,7 @@
+C:\PROYECTOS\CSHAR\Bucles\bin\Debug\Bucles.exe.config
+C:\PROYECTOS\CSHAR\Bucles\bin\Debug\Bucles.exe
+C:\PROYECTOS\CSHAR\Bucles\bin\Debug\Bucles.pdb
+C:\PROYECTOS\CSHAR\Bucles\obj\Debug\Bucles.csprojAssemblyReference.cache
+C:\PROYECTOS\CSHAR\Bucles\obj\Debug\Bucles.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\CSHAR\Bucles\obj\Debug\Bucles.exe
+C:\PROYECTOS\CSHAR\Bucles\obj\Debug\Bucles.pdb
